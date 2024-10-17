@@ -34,4 +34,6 @@ With Next.js, the process of building powerful, full-stack applications transfor
 Welcome to your new development journey with Next.js 14, where innovation meets simplicity, and every project is a chance to create something extraordinary!
 
 ## 📚 **Read more about...**  
-[**🧑‍💻 Client-Side Rendering vs. Server-Side Rendering**](csr-ssr.md)  
+[**🛠️ Quick Set up of Next JS**](/01_Getting-Started/first-app/README.md)
+<br>
+[**🧑‍💻 Client-Side Rendering vs. Server-Side Rendering**](/00_NextJS_Blogs/csr-ssr.md)
